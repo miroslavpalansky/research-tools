@@ -16,7 +16,7 @@ keep if year==2019
 save "$CYB/countryBase final.dta", replace 
 */
 
-**Contents:
+**Contents: 
 {
 /*
 ** 1) Developing country classifications
@@ -84,6 +84,7 @@ save "$CYB/countryBase final.dta", replace
 * 8c) FSI 2013
 * 8d) FSI 2015
 * 8e) FSI 2018
+* 8f) FSI 2020
 * 8f) FSI data of panel nature
 * 8g) MFSI - FSI over time
 * 8h) KFSI_2018_15_id172
